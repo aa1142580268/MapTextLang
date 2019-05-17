@@ -130,7 +130,7 @@
 	}
 	"[Cloud] Ay.. There you are!"
 	{
-		"chi"		"**[克劳德]喂..你在哪！**"
+		"chi"		"**[克劳德]这..这就是！**"
 	}
 	"[Red-XIII] Yes. They helped me a lot. Did you ask for that? This is for you.."
 	{
@@ -139,7 +139,7 @@
 	}
 	"[Cloud] Thanks. But one question.. What did we forget here?"
 	{
-		"chi"		"**谢谢.但有一个问题..我们是不是忘了什么？**"
+		"chi"		"**谢谢.但有一个问题..我们为什么要来这里？**"
 	}
 	"[Red-XIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak.."
 	{
@@ -369,7 +369,7 @@
 	}
 	"[Cloud] This was 1st Class SOLDIER Genesis.. But what did he forget here?"
 	{
-		"chi"		"**[克劳德]他是神罗部队一号特种兵..但是我不知道他为什么会在这里？**"
+		"chi"		"**[克劳德]他是神罗部队一号特种兵杰内西斯..但是我不知道他为什么会在这里？**"
 	}
 	"[Red-XIII] Possibly he needs the Gi Nattak soul.. Because it contains huge amount of power."
 	{
@@ -412,7 +412,7 @@
 	}
 	"[Cloud] Sh#t! He ran away.. I guess Shinra will notice Bahamut above Cosmo Canyon and we will have more destructions then.."
 	{
-		"chi"		"**[克劳德]考!我想神罗基地应该已经注意到宇宙峡谷中出现的巴哈姆特了..我们即会迎来更多的麻烦**"
+		"chi"		"**[克劳德]shit! 我想神罗基地应该已经注意到宇宙峡谷中出现的巴哈姆特了..我们可能有更多的麻烦了**"
 	}
 	"**Ifrit is defeated! Get on the airship**"
 	{
@@ -504,7 +504,7 @@
 	}
 	"[Cloud] Really do not think that he could lose that easy.. Anyways the base will explode soon."
 	{
-		"chi"		"**[克劳德]真不敢相信他会那么容易被打败..算了.反正基地即将爆炸了.**"
+		"chi"		"**[克劳德]真不敢相信他会那么容易被打败...基地即将爆炸.**"
 	}
 	"[Cloud] See you on the top evacuation point."
 	{
